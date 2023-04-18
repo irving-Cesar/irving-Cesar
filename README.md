@@ -19,4 +19,4 @@
 
 Criatividade é Essencial! 🔥
   
-![Snake animation](https://github.com/irving-Cesar/irving-Cesar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/irving-Cesar/irving-Cesar/blob/output/github-contribution-grid-snake.svg)
