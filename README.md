@@ -18,3 +18,5 @@
 </div>
 
 Criatividade é Essencial! 🔥
+  
+![Snake animation](https://github.com/irving-Cesar/irving-Cesar/blob/output/github-contribuition-grid-snake.svg)
