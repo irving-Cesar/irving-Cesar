@@ -4,8 +4,8 @@
 
 <div>
 <a href="https://github.com/irving-Cesar">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=irving-Cesar&show_icons=true&bg_color=00000000&text_color=FFFFFF">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irving-Cesar&layout=compact&theme=dracula&langs_count=16&bg_color=00000000&text_color=FFFFFF">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=irving-Cesar&t&theme=dark&show_icons=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irving-Cesar&layout=compact&theme=dark&langs_count=16">
 </div>
 
 ### Tecnologias que uso:
